@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1", "..\FuelStation WF\Lesson_3_Module_2_2\Task_1.csproj", "{A64A49F8-590B-443E-8995-158B693D2B2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{85D8E023-053D-4B2C-B689-EDB0767FADA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "Task_3\Task_3.csproj", "{16981C96-40E6-4F53-97FA-6BC15063AE65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A64A49F8-590B-443E-8995-158B693D2B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64A49F8-590B-443E-8995-158B693D2B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64A49F8-590B-443E-8995-158B693D2B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64A49F8-590B-443E-8995-158B693D2B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D8E023-053D-4B2C-B689-EDB0767FADA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D8E023-053D-4B2C-B689-EDB0767FADA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D8E023-053D-4B2C-B689-EDB0767FADA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D8E023-053D-4B2C-B689-EDB0767FADA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16981C96-40E6-4F53-97FA-6BC15063AE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16981C96-40E6-4F53-97FA-6BC15063AE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16981C96-40E6-4F53-97FA-6BC15063AE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16981C96-40E6-4F53-97FA-6BC15063AE65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0770617B-DA6C-4B1F-A55C-B89F6E8D88A6}
+	EndGlobalSection
+EndGlobal
